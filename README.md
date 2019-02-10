@@ -16,4 +16,6 @@ Compiled data from http://kuroganehammer.com/Ultimate/Attributes such as:
 1. What quality are the best characters based on?
 2. Which characteristics are the most similar?
 
+An initial example of the relationship between air speed and run speed is below:
+
 ![air-run-speed](https://raw.githubusercontent.com/zcsinger/smash-framedata/master/air_run_speed.png)
