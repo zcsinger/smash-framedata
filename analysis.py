@@ -19,8 +19,6 @@ def analysis():
     print("Performing component-wise linear regression...")
     partial_linear_regression(framedata, "AIR SPEED", "RUN SPEED")
 
-
-
 def load_framedata():
     run_speed = pd.read_csv("framedata/run_speed.csv", sep="\t")
     run_speed.name = "RUN SPEED"
@@ -71,12 +69,10 @@ def load_framedata():
 
     return merged_framedata
 
-
 # full scatter matrix
 def display_framedata(framedata):
     scatter_matrix(framedata)
     plt.show()
-
 
 # most components
 def full_linear_regression(framedata):
@@ -87,7 +83,6 @@ def full_linear_regression(framedata):
     model = sm.OLS(y, X).fit()
     predictions = model.predict(X)
     print(model.summary())
-
 
 # two particular components
 def partial_linear_regression(framedata, predictor, target):
@@ -104,11 +99,9 @@ def partial_linear_regression(framedata, predictor, target):
     scat[0, 0].set_yticklabels(['0.8', '1.0', '1.2'])
     plt.show()
 
-
 # quick way to separate sections
 def new_header(title, length=30, char="="):
     print(char*length + " " + title + " " + char*length)
-
 
 
 if __name__ == "__main__":
