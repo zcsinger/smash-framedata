@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b3513a67-c7ed-453f-b35a-ef6845afe3c3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/reformat.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ultimate.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Class Materials/Spring 2018/ResearchGit/Code/ZS_2/DouglasRachford.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Class Materials/Spring 2018/ResearchGit/Code/ZS_2/Lorenz96_XV.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Class Materials/Spring 2018/ResearchGit/Code/ZS_2/Lorenz96_true_coefficients.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Class Materials/Spring 2018/ResearchGit/Code/ZS_2/LorenzCubic_XV.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Class Materials/Spring 2018/ResearchGit/Code/ZS_2/LorenzCubic_true_coefficients.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Class Materials/Spring 2018/ResearchGit/Code/ZS_2/ProxF.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Class Materials/Spring 2018/ResearchGit/Code/ZS_2/ProxG.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Class Materials/Spring 2018/ResearchGit/Code/ZS_2/README.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Class Materials/Spring 2018/ResearchGit/Code/ZS_2/basisPursuit.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Class Materials/Spring 2018/ResearchGit/Code/ZS_2/basisPursuit_Lorenz96.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Class Materials/Spring 2018/ResearchGit/Code/ZS_2/dictionary_cubic.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Class Materials/Spring 2018/ResearchGit/Code/ZS_2/dictionary_quad96.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Class Materials/Spring 2018/ResearchGit/Code/ZS_2/function_mapping.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Class Materials/Spring 2018/ResearchGit/Code/ZS_2/function_mapping2.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Class Materials/Spring 2018/ResearchGit/Code/ZS_2/function_sampling.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Class Materials/Spring 2018/ResearchGit/Code/ZS_2/lorenz96.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Class Materials/Spring 2018/ResearchGit/Code/ZS_2/lorenz_cubic.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Class Materials/Spring 2018/ResearchGit/Code/ZS_2/mat_idx_test.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Class Materials/Spring 2018/ResearchGit/Code/ZS_2/rProxF.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Class Materials/Spring 2018/ResearchGit/Code/ZS_2/rProxG.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Class Materials/Spring 2018/ResearchGit/Code/ZS_2/rk_methods.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Class Materials/Spring 2018/ResearchGit/Code/ZS_2/spgl1-1.9/.gitattributes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Class Materials/Spring 2018/ResearchGit/Code/ZS_2/spgl1-1.9/COPYING" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Class Materials/Spring 2018/ResearchGit/Code/ZS_2/spgl1-1.9/ChangeLog" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Class Materials/Spring 2018/ResearchGit/Code/ZS_2/spgl1-1.9/Contents.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Class Materials/Spring 2018/ResearchGit/Code/ZS_2/spgl1-1.9/NormGroupL2_dual.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Class Materials/Spring 2018/ResearchGit/Code/ZS_2/spgl1-1.9/NormGroupL2_primal.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Class Materials/Spring 2018/ResearchGit/Code/ZS_2/spgl1-1.9/NormGroupL2_project.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Class Materials/Spring 2018/ResearchGit/Code/ZS_2/spgl1-1.9/NormL12_dual.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Class Materials/Spring 2018/ResearchGit/Code/ZS_2/spgl1-1.9/NormL12_primal.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Class Materials/Spring 2018/ResearchGit/Code/ZS_2/spgl1-1.9/NormL12_project.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Class Materials/Spring 2018/ResearchGit/Code/ZS_2/spgl1-1.9/NormL1NN_dual.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Class Materials/Spring 2018/ResearchGit/Code/ZS_2/spgl1-1.9/NormL1NN_primal.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Class Materials/Spring 2018/ResearchGit/Code/ZS_2/spgl1-1.9/NormL1NN_project.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Class Materials/Spring 2018/ResearchGit/Code/ZS_2/spgl1-1.9/NormL1_dual.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Class Materials/Spring 2018/ResearchGit/Code/ZS_2/spgl1-1.9/NormL1_primal.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Class Materials/Spring 2018/ResearchGit/Code/ZS_2/spgl1-1.9/NormL1_project.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Class Materials/Spring 2018/ResearchGit/Code/ZS_2/spgl1-1.9/README" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Class Materials/Spring 2018/ResearchGit/Code/ZS_2/spgl1-1.9/private/ensure.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Class Materials/Spring 2018/ResearchGit/Code/ZS_2/spgl1-1.9/private/heap.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Class Materials/Spring 2018/ResearchGit/Code/ZS_2/spgl1-1.9/private/heap.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Class Materials/Spring 2018/ResearchGit/Code/ZS_2/spgl1-1.9/private/lsqr.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Class Materials/Spring 2018/ResearchGit/Code/ZS_2/spgl1-1.9/private/oneProjector.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Class Materials/Spring 2018/ResearchGit/Code/ZS_2/spgl1-1.9/private/oneProjectorCore.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Class Materials/Spring 2018/ResearchGit/Code/ZS_2/spgl1-1.9/private/oneProjectorCore.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Class Materials/Spring 2018/ResearchGit/Code/ZS_2/spgl1-1.9/private/oneProjectorMex.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Class Materials/Spring 2018/ResearchGit/Code/ZS_2/spgl1-1.9/private/oneProjectorMex.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Class Materials/Spring 2018/ResearchGit/Code/ZS_2/spgl1-1.9/private/oneProjectorMex.mexglx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Class Materials/Spring 2018/ResearchGit/Code/ZS_2/spgl1-1.9/private/oneProjectorMex.mexmaci" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Class Materials/Spring 2018/ResearchGit/Code/ZS_2/spgl1-1.9/private/oneProjectorMex.mexmaci64" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Class Materials/Spring 2018/ResearchGit/Code/ZS_2/spgl1-1.9/private/oneProjectorMex.mexw32" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Class Materials/Spring 2018/ResearchGit/Code/ZS_2/spgl1-1.9/spgSetParms.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Class Materials/Spring 2018/ResearchGit/Code/ZS_2/spgl1-1.9/spg_bp.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Class Materials/Spring 2018/ResearchGit/Code/ZS_2/spgl1-1.9/spg_bpdn.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Class Materials/Spring 2018/ResearchGit/Code/ZS_2/spgl1-1.9/spg_group.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Class Materials/Spring 2018/ResearchGit/Code/ZS_2/spgl1-1.9/spg_lasso.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Class Materials/Spring 2018/ResearchGit/Code/ZS_2/spgl1-1.9/spg_mmv.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Class Materials/Spring 2018/ResearchGit/Code/ZS_2/spgl1-1.9/spgdemo.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Class Materials/Spring 2018/ResearchGit/Code/ZS_2/spgl1-1.9/spgl1.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Class Materials/Spring 2018/ResearchGit/Code/ZS_2/spgl1-1.9/spgsetup.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Class Materials/Spring 2018/ResearchGit/Code/ZS_2/stanX_test.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Class Materials/Spring 2018/ResearchGit/Code/ZS_2/test.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Class Materials/Spring 2018/ResearchGit/Code/ZS_2/test_strategy1.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Class Materials/Spring 2018/ResearchGit/Code/ZS_2/test_strategy_cubic.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Class Materials/Spring 2018/ResearchGit/Code/ZS_2/time_derivative.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Class Materials/Spring 2018/ResearchGit/Fall_Report_Zach.aux" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Class Materials/Spring 2018/ResearchGit/Fall_Report_Zach.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Class Materials/Spring 2018/ResearchGit/Fall_Report_Zach.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Class Materials/Spring 2018/ResearchGit/Fall_Report_Zach.synctex.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Class Materials/Spring 2018/ResearchGit/Fall_Report_Zach.tex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Class Materials/Spring 2018/ResearchGit/MS_Draft_3.aux" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Class Materials/Spring 2018/ResearchGit/MS_Draft_3.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Class Materials/Spring 2018/ResearchGit/MS_Draft_3.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Class Materials/Spring 2018/ResearchGit/MS_Draft_3.synctex.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Class Materials/Spring 2018/ResearchGit/MS_Draft_3.tex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Class Materials/Spring 2018/ResearchGit/MS_F17_Outline.aux" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Class Materials/Spring 2018/ResearchGit/MS_F17_Outline.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Class Materials/Spring 2018/ResearchGit/MS_F17_Outline.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Class Materials/Spring 2018/ResearchGit/MS_F17_Outline.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Class Materials/Spring 2018/ResearchGit/MS_F17_Outline.synctex.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Class Materials/Spring 2018/ResearchGit/MS_F17_Outline.tex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Class Materials/Spring 2018/ResearchGit/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Class Materials/Spring 2018/ResearchGit/ReadingNotes.aux" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Class Materials/Spring 2018/ResearchGit/ReadingNotes.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Class Materials/Spring 2018/ResearchGit/ReadingNotes.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Class Materials/Spring 2018/ResearchGit/ReadingNotes.synctex.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Class Materials/Spring 2018/ResearchGit/ReadingNotes.tex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Class Materials/Spring 2018/ResearchGit/SpringDraft1.aux" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Class Materials/Spring 2018/ResearchGit/SpringDraft1.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Class Materials/Spring 2018/ResearchGit/SpringDraft1.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Class Materials/Spring 2018/ResearchGit/SpringDraft1.synctex.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Class Materials/Spring 2018/ResearchGit/SpringDraft1.tex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Class Materials/Spring 2018/ResearchGit/dist_res_02.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cubic_exs/DouglasRachford.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cubic_exs/ProxF.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cubic_exs/ProxG.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cubic_exs/cubic_mapping.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cubic_exs/dictionary_cubic.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cubic_exs/rProxF.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cubic_exs/rProxG.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../sim_code/maxwell.png" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ultimate.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="114">
+              <caret line="6" selection-start-line="6" selection-end-line="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/reformat.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="950">
+              <caret line="50" column="14" selection-start-line="50" selection-start-column="14" selection-end-line="50" selection-end-column="14" />
+              <folding>
+                <element signature="e#0#19#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/ultimate.py" />
+        <option value="$PROJECT_DIR$/reformat.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="68" />
+    <option name="y" value="61" />
+    <option name="width" value="1207" />
+    <option name="height" value="738" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Python" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="reformat" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="DS_projects" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/reformat.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.reformat" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b3513a67-c7ed-453f-b35a-ef6845afe3c3" name="Default Changelist" comment="" />
+      <created>1547948028649</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1547948028649</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="68" y="61" width="1207" height="738" extended-state="0" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17854077" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32972136" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.32972136" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="10" weight="0.32972136" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="R Graphics" order="3" weight="0.32961375" />
+      <window_info anchor="right" id="R Packages" order="4" weight="0.32961375" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Favorites" order="0" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.17339055" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="0" visible="true" weight="0.32972136" />
+      <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="2" />
+      <window_info anchor="bottom" id="Python Console" order="3" />
+      <window_info anchor="bottom" id="Message" order="4" />
+      <window_info anchor="bottom" id="Find" order="5" />
+      <window_info anchor="bottom" id="Run" order="6" />
+      <window_info anchor="bottom" id="Debug" order="7" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="10" />
+      <window_info anchor="right" id="R Graphics" order="0" />
+      <window_info anchor="right" id="R Packages" order="1" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="2" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="3" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="4" weight="0.25" />
+    </layout-to-restore>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/iris.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ultimate.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/reformat.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="950">
+          <caret line="50" column="14" selection-start-line="50" selection-start-column="14" selection-end-line="50" selection-end-column="14" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
